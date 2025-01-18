@@ -1,6 +1,6 @@
 # Hi there, I'm Yudha Jarod Krisnawan 👋
 
-Welcome to my GitHub profile! I'm a passionate and motivated **Data Scientist**, **Machine Learning Engineer**, and **Software Developer**. I specialize in **computer vision**, **data analysis**, and **machine learning**.
+Soon-to-be Information Systems graduate from Trunojoyo University, with a strong passion for **Machine Learning**, **Data Science**, and **Web Development**. Certified in TensorFlow (Google) and Machine Learning (Bangkit Academy), with additional credentials from DeepLearning.AI, Udemy, and Stanford. Committed to continuous learning and staying ahead in the evolving technology landscape.
 
 ## About Me
 
