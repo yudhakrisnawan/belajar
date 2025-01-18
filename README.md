@@ -12,7 +12,11 @@ EyeCareAI leverages the power of a Convolutional Neural Network (CNN) trained on
 ## How to Use  
 1. **Upload**: Select an eye image in JPG or PNG format.  
 2. **Analyze**: Click the "Analyze" button.  
-3. **Results**: View the classification result as either *Cataract* or *Normal*.  
+3. **Results**: View the classification result as either *Cataract* or *Normal*.
+
+## EyeCareAI Interface  
+The EyeCareAI User Interface is designed for quick and intuitive access to cataract detection. Users can easily upload an image in JPG or PNG format, click "Analyze," and view the result as either Cataract or Normal. This interface emphasizes simplicity and speed, making it ideal for practical medical use.
+![belajar](public/images/interface-screenshot.png)
 
 ## Running the Program  
 
