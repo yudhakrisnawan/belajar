@@ -16,7 +16,7 @@ EyeCareAI leverages the power of a Convolutional Neural Network (CNN) trained on
 
 ## EyeCareAI Interface  
 The EyeCareAI User Interface is designed for quick and intuitive access to cataract detection. Users can easily upload an image in JPG or PNG format, click "Analyze," and view the result as either Cataract or Normal. This interface emphasizes simplicity and speed, making it ideal for practical medical use.
-![belajar](public/images/interface-screenshot.png)
+![belajar](public/images/EyeCareAI.png)
 
 ## Running the Program  
 
