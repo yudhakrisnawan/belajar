@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate and motivated **Data Scientist**,
 
 ## 📈 My GitHub Stats
 
-![Yudha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Yudha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yudhakrisnawan&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 🔧 Technologies & Tools
 
