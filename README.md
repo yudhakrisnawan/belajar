@@ -2,8 +2,7 @@
 Empowering early detection of cataracts with AI technology.  
 
 ## About the Model  
-EyeCareAI leverages the power of a Convolutional Neural Network (CNN) trained on thousands of eye images to detect the presence of cataracts with high accuracy.  
-The system provides quick and reliable predictions tailored for medical practitioners and researchers.  
+EyeCareAI leverages the power of a Convolutional Neural Network (CNN) trained on thousands of eye images to detect the presence of cataracts with high accuracy. The system provides quick and reliable predictions tailored for medical practitioners and researchers.  
 
 ## Features  
 - **Accurate Detection**: High precision in identifying cataracts.  
@@ -18,18 +17,14 @@ The system provides quick and reliable predictions tailored for medical practiti
 ## Running the Program  
 
 ### Prerequisites  
-- PHP and Laravel installed.  
-- Python 3.x installed with TensorFlow and required libraries.  
+- PHP and Laravel installed.
+- Python 3.x installed with TensorFlow and required libraries.
+- Laravel Framework and Composer.
+- A web server (e.g., Apache or Nginx). 
 
 ## Installation and Running the Program
 
 Follow these steps to set up and run the EyeCareAI system:
-
-### Prerequisites
-- Python (version compatible with TensorFlow 2.x)
-- Laravel Framework
-- Composer
-- A web server (e.g., Apache or Nginx)
 
 ### Steps
 
